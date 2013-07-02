@@ -1,8 +1,9 @@
 # Comment 
 tempfile.txt
+tempfile2.txt
 *.zip
 *.gz
-._*.html
+._*
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
