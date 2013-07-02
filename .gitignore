@@ -2,7 +2,7 @@
 tempfile.txt
 *.zip
 *.gz
-._*
+._*.html
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
